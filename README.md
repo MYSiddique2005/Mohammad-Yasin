@@ -11,12 +11,8 @@ Computer Science student focused on Python development, backend systems, and aut
 ---
 
 ## Technical Skills
-- **Programming:** Python, C++
-- **Backend:** Flask
-- **Web:** HTML, CSS
-- **Database:** SQL
-- **Automation:** Web Scraping, n8n
-- **Tools:** Git, GitHub, Linux, Docker (learning)
+- **Programming:** Python
+- **Tools:** Git, GitHub, Linux
 
 ---
 
