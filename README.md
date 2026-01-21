@@ -53,5 +53,4 @@ To secure a Python Developer internship and grow into backend and AI-focused rol
 ---
 
 ## Contact
-- Email: your@email.com
-- GitHub: https://github.com/yourusername
+- Email: my.siddique2005@gmail.com
