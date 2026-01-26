@@ -6,13 +6,14 @@
 ---
 
 ## Summary
-Computer Science student focused on Python development, backend systems, and automation. Actively building real-world projects and seeking internship opportunities.
+Computer Science student focused on Python development, backend systems, and automation. Currently exploring open-source development and learning how real-world projects like Kdenlive are built and maintained.
 
 ---
 
 ## Technical Skills
-- **Programming:** Python
-- **Tools:** Git, GitHub, Linux
+- **Programming:** Python  
+- **Tools:** Git, GitHub, Linux  
+- **Open Source:** Beginner contributor, learning OSS workflows  
 
 ---
 
@@ -25,14 +26,15 @@ Computer Science student focused on Python development, backend systems, and aut
 - Flask
 - Web Scraping
 - n8n  
-**Internship Focus**
 
+**Internship Focus**
 - DSA in C++
 - Docker  
-**Entry-Level Job Ready**
 
+**Entry-Level Job Ready**
 - Machine Learning (Scikit-learn)
 - LangChain  
+
 **Advanced / AI Roles**
 
 ---
@@ -43,8 +45,14 @@ Computer Science student focused on Python development, backend systems, and aut
 
 ---
 
+## Open Source
+- Contributing to Kdenlive (feature ideas and beginner contributions)
+- Learning KDE and open-source collaboration practices
+
+---
+
 ## Career Objective
-To secure a Python Developer internship and grow into backend and AI-focused roles.
+To secure a Python Developer internship and grow into backend and AI-focused roles while actively contributing to open-source projects.
 
 ---
 
